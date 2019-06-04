@@ -1,3 +1,4 @@
 {
-  "mongoURI": "enter address of you mongo URI or create one here https://cloud.mongodb.com"
+  "mongoURI": "enter address of you mongo URI or create one here https://cloud.mongodb.com",
+  "jwtSecret": "secretorKey"
 }
