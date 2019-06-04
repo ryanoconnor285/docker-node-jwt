@@ -16,7 +16,7 @@ Quickly set up a node application that authenticates a user with json web tokens
 As always, you should have a folder on your machine for repositories.  Once in that directory
 
 ```
-$ https://github.com/ryanoconnor285/docker-node-jwt.git
+$ git clone https://github.com/ryanoconnor285/docker-node-jwt.git
 ```
 
 
